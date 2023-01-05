@@ -6,4 +6,8 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Syncfusion.HtmlToPdfConverter.Net.Linux" Version="20.4.0.42" />
+  </ItemGroup>
+
 </Project>
